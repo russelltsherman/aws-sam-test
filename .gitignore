@@ -1,0 +1,5 @@
+# ignore build harness
+*build-harness
+
+# ignore sam cache
+.aws-sam
